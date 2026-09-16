@@ -5,5 +5,7 @@
 ---
 ## Checklist
 - [x] Alexnet
-- [ ] Attention is all you need
-- [ ] An Image is worth of 16x16 words
+- [ ] ResNet
+- [ ] DenseNet
+- [x] Attention is all you need
+- [x] An Image is worth of 16x16 words
