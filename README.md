@@ -5,7 +5,11 @@
 ---
 ## Checklist
 - [x] Alexnet
-- [ ] ResNet
+- [x] ResNet
 - [ ] DenseNet
+- [ ] U-Net
+- [ ] YOLO - v1
 - [x] Attention is all you need
 - [x] An Image is worth of 16x16 words
+- [ ] BERT
+- [ ] GPT-2
